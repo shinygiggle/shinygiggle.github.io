@@ -1,4 +1,4 @@
-title: Your awesome title
+title: website title is CoderDojoBalwyn
 author:
   name: GitHub User
   email: your-email@domain.com
@@ -16,8 +16,8 @@ minima:
 
   # generate social links in footer
   social_links:
-    twitter: jekyllrb
-    github:  jekyll
+    # twitter: jekyllrb
+    github:  rockycape
     # devto: jekyll
     # dribbble: jekyll
     # facebook: jekyll
