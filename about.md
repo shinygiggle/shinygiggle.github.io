@@ -4,15 +4,9 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+### ![CoderDojoBalwyn](favicon-32x32.png)  CoderDojoBalwyn hosted on GitHub Pages
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+Welcome to this CoderDojoBalwyn website which has various resources for our ninjas.  CoderDojo is a free coding club for kids 7-17 and CoderDojoBalwyn is our local group in the eastern suburbs of Melbourne, Australia. 
 
-
-[jekyll-organization]: https://github.com/jekyll
+For further information click [CoderDojoBalwyn @ Balwyn Library](https://zen.coderdojo.com/dojos/au/balwyn-vic/balwyn-balwyn-library) or [CoderDojoBalwyn Website](https://balwynau.wixsite.com/coderdojo)
