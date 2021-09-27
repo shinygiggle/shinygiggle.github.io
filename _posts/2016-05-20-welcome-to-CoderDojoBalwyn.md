@@ -1,8 +1,8 @@
 ---
 layout: post
 ---
-### ![CoderDojoBalwyn](favicon-32x32.png)  CoderDojoBalwyn hosted on GitHub Pages
+### ![CoderDojoBalwyn](favicon-32x32.png)  CoderDojoBalwyn
 
-Welcome to this CoderDojoBalwyn website which has various resources for our ninjas.  CoderDojo is a free coding club for kids 7-17 and CoderDojoBalwyn is our local group in the eastern suburbs of Melbourne, Australia. 
+We've been playing around with the jekyll minima theme for this website recently. Hope you like the look and feel of this theme. 
 
-For further information click [CoderDojoBalwyn @ Balwyn Library](https://zen.coderdojo.com/dojos/au/balwyn-vic/balwyn-balwyn-library) or [CoderDojoBalwyn Website](https://balwynau.wixsite.com/coderdojo)
+For further information on CoderDojoBalwyn click [CoderDojoBalwyn @ Balwyn Library](https://zen.coderdojo.com/dojos/au/balwyn-vic/balwyn-balwyn-library) or [CoderDojoBalwyn Website](https://balwynau.wixsite.com/coderdojo)
