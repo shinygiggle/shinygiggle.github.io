@@ -1,5 +1,7 @@
 ---
 layout: post
+title: "Welcome to CoderDojoBalwyn"
+categories: coderdojobalwyn
 ---
 ### ![CoderDojoBalwyn](/favicon-32x32.png)  CoderDojoBalwyn
 
