@@ -3,7 +3,7 @@ author:
   name: GitHub User
   email: your-email@domain.com
 description: > # this means to ignore newlines until "show_excerpts:"
-  This website provides information about what we're up to and resources for our CoderDojoBalwyn Ninjas
+  This website provides information about what we're up to and resources for our CoderDojoBalwyn Ninjas.
 
 show_excerpts: false # set to true to show excerpts on the homepage
 
