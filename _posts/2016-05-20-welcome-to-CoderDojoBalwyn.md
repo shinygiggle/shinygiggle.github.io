@@ -1,7 +1,7 @@
 ---
 layout: post
 ---
-### ![CoderDojoBalwyn](favicon-32x32.png | relative_url)  CoderDojoBalwyn
+### ![CoderDojoBalwyn](/favicon-32x32.png)  CoderDojoBalwyn
 
 We've been playing around with the jekyll minima theme for this website recently. Hope you like the look and feel of this theme. 
 
