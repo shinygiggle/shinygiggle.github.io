@@ -45,6 +45,16 @@ catchme = text('Hello World - You can\'t catch me!',100,500)
 
 For more details see [Writing on GitHub / Basic writing and formatting syntax](https://help.github.com/articles/basic-writing-and-formatting-syntax/) or  [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/)
 
+### (f) Jupyter Notebook (interactive python) 
+
+Jupyter Notebook is an interactive version of python that conveniently runs in your internet browser.
+You can install Jupyter Notebook after intalling the python language locally on you computer OR you can install Jupyter Notebook on the web with both [github.com](github.com) and [mybinder.org](https://mybinder.org/)
+
+Once you've got Jupyter Notebook up and running here are some resources you might find useful to learn more:
+
+[awesome jupyter](https://github.com/markusschanta/awesome-jupyter#awesome-jupyter-)
+
+
 <!--
 ☯️
 
