@@ -54,6 +54,20 @@ Once you've got Jupyter Notebook up and running here are some resources you migh
 
 [awesome jupyter](https://github.com/markusschanta/awesome-jupyter#awesome-jupyter-)
 
+# Keyboard and other commands for Jupyter Notebook 
+
+To execute code:
+
+**shift+enter**
+
+note well: when working with Mardown you will need to use the execute code command to have it display as as Markdown
+
+*Remember that there are two modes: command mode & edit mode*
+
+In command mode: 
+
+**'m'** turns a cell into Markdown
+**'y'** turns a cell into code
 
 <!--
 ☯️
