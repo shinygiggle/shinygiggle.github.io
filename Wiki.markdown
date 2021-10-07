@@ -60,7 +60,11 @@ To execute code:
 
 **shift+enter**
 
-note well: when working with Mardown you will need to use the execute code command to have it display as as Markdown
+**N.B.** when working with Mardown in Jupyter Notebook, you will need to:
+
+(a) select the cell
+(b) type the **'m'** key to turn the cell into Markdown
+(c) type **'shift+enter'** to show the contents of the cell as Markdown
 
 *Remember that there are two modes: command mode & edit mode*
 
