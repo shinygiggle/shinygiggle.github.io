@@ -54,7 +54,7 @@ Once you've got Jupyter Notebook up and running here are some resources you migh
 
 [awesome jupyter](https://github.com/markusschanta/awesome-jupyter#awesome-jupyter-)
 
-# Keyboard and other commands for Jupyter Notebook 
+### (g) Keyboard and other commands for Jupyter Notebook 
 
 To execute code:
 
