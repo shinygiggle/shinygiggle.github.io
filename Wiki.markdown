@@ -87,6 +87,7 @@ Best Practice for writing with Markdown
 (2) End a line with two or more spaces '  ', and then type return  
 
 [Markdown summary sheet](https://www.markdownguide.org/cheat-sheet/)  
+[Paste to Markdown](https://euangoddard.github.io/clipboard2markdown/)
 
 ### (i) Sublime Text
 
