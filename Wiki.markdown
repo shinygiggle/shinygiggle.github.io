@@ -71,7 +71,7 @@ command mode & edit mode*
 
 In command mode:  
 
-move up and down cells with the **`⇧`** and **`⇧`** keys  
+move up and down cells with the **`⇧`** and **`⇩`** keys  
 **`m`** turns a cell into Markdown  
 **`y`** turns a cell into code  
 **`z`** undo cell operation  
