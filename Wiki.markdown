@@ -74,6 +74,7 @@ To execute code:
 In command mode: 
 
 **'m'** turns a cell into Markdown
+
 **'y'** turns a cell into code
 
 **'z'** undo cell operation
