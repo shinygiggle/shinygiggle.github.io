@@ -63,8 +63,11 @@ To execute code:
 **N.B.** when working with Mardown in Jupyter Notebook, you will need to:
 
 (a) select the cell
+
 (b) type the **'m'** key to turn the cell into Markdown
+
 (c) type **'shift+enter'** to show the contents of the cell as Markdown
+
 
 *Remember that there are two modes: command mode & edit mode*
 
