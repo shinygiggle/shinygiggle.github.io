@@ -70,6 +70,7 @@ To execute code:
 command mode & edit mode* <br>
 <br>
 In command mode: <br>
+<br>
 move up and down cells with the &#8593; and &#8595; keys <br>
 **'m'** turns a cell into Markdown <br>
 **'y'** turns a cell into code <br>
