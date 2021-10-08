@@ -73,6 +73,8 @@ To execute code:
 
 In command mode: 
 
+move up and down cells with the &#8593; and &#8595; keys
+
 **'m'** turns a cell into Markdown
 
 **'y'** turns a cell into code
