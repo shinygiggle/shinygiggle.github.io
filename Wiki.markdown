@@ -77,9 +77,13 @@ In command mode:
 **'y'** turns a cell into code
 
 **'z'** undo cell operation
+
 **'shift+x'** redo cell operation
+
 **'c'** copy cells
+
 **'v'** paste cells below
+
 
 <!--
 ☯️
