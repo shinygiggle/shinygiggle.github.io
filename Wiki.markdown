@@ -58,26 +58,26 @@ Once you've got Jupyter Notebook up and running here are some resources you migh
 
 To execute code:  
 
-**shift+enter**  
+**`shift` + `enter`**  
 
 **N.B.** when working with Mardown in Jupyter Notebook, you will need to:  
 
 (a) select the cell  
-(b) type the **'m'** key to turn the cell into Markdown  
-(c) type **'shift+enter'** to show the contents of the cell as Markdown  
+(b) type the **`m`** key to turn the cell into Markdown  
+(c) type **`shift` + `enter`** to show the contents of the cell as Markdown  
 
 *Remember that there are two modes:  
 command mode & edit mode*  
 
 In command mode:  
 
-move up and down cells with the **'&#8593;'** and **'&#8595;'** keys  
-**'m'** turns a cell into Markdown  
-**'y'** turns a cell into code  
-**'z'** undo cell operation  
-**'shift+x'** redo cell operation  
-**'c'** copy cells  
-**'v'** paste cells below  
+move up and down cells with the **`⇧`** and **`⇧`** keys  
+**`m`** turns a cell into Markdown  
+**`y`** turns a cell into code  
+**`z`** undo cell operation  
+**`shift`+`x`** redo cell operation  
+**`c`** copy cells  
+**`v`** paste cells below  
 
 
 ### (h) Markdown
