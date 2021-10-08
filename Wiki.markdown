@@ -81,7 +81,7 @@ move up and down cells with the **'&#8593;'** and **'&#8595;'** keys <br>
 
 
 ### (h) Markdown <br>
-<br>
+
 [Markdown summary sheet](https://www.markdownguide.org/cheat-sheet/)
 <br>
 
