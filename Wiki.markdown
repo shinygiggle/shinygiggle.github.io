@@ -26,11 +26,15 @@ catchme = text('Hello World - You can't catch me!',100,500)
 
 [Snake App](https://rockycape.github.io/snake.html)  
 
-[Pacman App](https://rockycape.github.io/pacman.html)  
+[Pacman App](http://www.flashmonkey.co.uk/lab/pacman/)  
+
+[Pacman App Info](http://www.flashmonkey.co.uk/css-javascript-pacman/) 
 
 ### (c) favourite web apps
 
 [QRDROID QR generater](http://qrdroid.com/generate/)  
+[Pacman App](https://www.google.com/doodles/30th-anniversary-of-pac-man)
+
 
 
 
