@@ -71,6 +71,7 @@ To execute code:
 
 *Remember that there are two modes: command mode & edit mode*
 
+
 In command mode: 
 
 move up and down cells with the &#8593; and &#8595; keys
@@ -86,6 +87,7 @@ move up and down cells with the &#8593; and &#8595; keys
 **'c'** copy cells
 
 **'v'** paste cells below
+
 
 ### (h) Markdown
 
