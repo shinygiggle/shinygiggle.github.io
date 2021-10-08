@@ -63,14 +63,14 @@ To execute code:
 (b) type the **'m'** key to turn the cell into Markdown
 (c) type **'shift+enter'** to show the contents of the cell as Markdown <br>
 *Remember that there are two modes: command mode & edit mode* <br>
-In command mode: 
-move up and down cells with the &#8593; and &#8595; keys
-**'m'** turns a cell into Markdown
-**'y'** turns a cell into code
-**'z'** undo cell operation
-**'shift+x'** redo cell operation
-**'c'** copy cells
-**'v'** paste cells below
+In command mode: <br>
+move up and down cells with the &#8593; and &#8595; keys <br>
+**'m'** turns a cell into Markdown <br>
+**'y'** turns a cell into code <br>
+**'z'** undo cell operation <br>
+**'shift+x'** redo cell operation <br>
+**'c'** copy cells <br>
+**'v'** paste cells below <br>
 
 
 ### (h) Markdown
