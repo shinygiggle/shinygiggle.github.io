@@ -32,8 +32,9 @@ catchme = text('Hello World - You can't catch me!',100,500)
 
 ### (c) favourite web apps
 
-[QRDROID QR generater](http://qrdroid.com/generate/)  
-[Pacman App](https://www.google.com/doodles/30th-anniversary-of-pac-man)
+[QRDROID QR generater](http://qrdroid.com/generate/) 
+
+[Google Doodle Pacman App](https://www.google.com/doodles/30th-anniversary-of-pac-man)
 
 
 
