@@ -95,7 +95,7 @@ Best Practice for writing with Markdown
 
 You may want to edit your Markdown with a text editor like Sublime Text.  To make it easier to visualise the formatting of ending a line with two or more spaces we have installed both **Package Control** and then **MarkdownEditing** to Sublime Text:  
 
-Package Control
+### Package Control
 ---------------
 
 It is highly recommended to install MarkdownEditing with [Package Control](https://packagecontrol.io/) as it automatically installs required dependencies and keeps all packages up to date.
