@@ -13,7 +13,7 @@ Hello World App by Rockycape - You can simply select and then copy the code belo
 
 ```markdown
 chaseme = text('<>',100,100)
-catchme = text('Hello World - You can\'t catch me!',100,500)
+catchme = text('Hello World - You can't catch me!',100,500)
                function drag() {
   chaseme.move(x,y,100)
   if (chaseme.hits(catchme)) {
@@ -80,7 +80,11 @@ move up and down cells with the **'&#8593;'** and **'&#8595;'** keys
 **'v'** paste cells below  
 
 
-### (h) Markdown  
+### (h) Markdown
+
+Best Practice for writing with Markdown
+(1) Don't put tabs or spaces in front of your paragraphs and keep lines left-aligned
+(2) End a line with two or more spaces '  ', and then type return
 
 [Markdown summary sheet](https://www.markdownguide.org/cheat-sheet/)  
 
