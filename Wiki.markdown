@@ -86,10 +86,12 @@ Best Practice for writing with Markdown
 (1) Don't put tabs or spaces in front of your paragraphs and keep lines left-aligned  
 (2) End a line with two or more spaces '  ', and then type return  
 
+### (i) Markdown resources
+
 [Markdown summary sheet](https://www.markdownguide.org/cheat-sheet/)  
 [Paste to Markdown](https://euangoddard.github.io/clipboard2markdown/)
 
-### (i) Sublime Text
+### (j) Sublime Text
 
 You may want to edit your Markdown with a text editor like Sublime Text.  To make it easier to visualise the formatting of ending a line with two or more spaces we have installed both **Package Control** and then **MarkdownEditing** to Sublime Text:  
 
