@@ -88,6 +88,19 @@ Best Practice for writing with Markdown
 
 [Markdown summary sheet](https://www.markdownguide.org/cheat-sheet/)  
 
+### (i) Sublime Text
+
+You may want to edit your Markdown with a text editor like Sublime Text.  To make it easier to visualise the formatting of ending a line with two or more spaces we have installed both **Package Control** and then **MarkdownEditing** to Sublime Text:  
+
+Package Control
+---------------
+
+It is highly recommended to install MarkdownEditing with [Package Control](https://packagecontrol.io/) as it automatically installs required dependencies and keeps all packages up to date.
+
+1.  [Install Package Control](https://packagecontrol.io/installation) if you haven't yet.
+2.  Open Command Palette (`Ctrl` + `Shift` + `P` (Windows, Linux) or `⌘` + `⇧` + `P` on Mac)
+3.  Type *Install Package* and hit `Enter` to display a list of available packages.
+4.  Type *MarkdownEditing* and hit `Enter` to install the package.
 
 <!--
 ☯️
