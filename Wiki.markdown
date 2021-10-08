@@ -82,9 +82,9 @@ move up and down cells with the **'&#8593;'** and **'&#8595;'** keys
 
 ### (h) Markdown
 
-Best Practice for writing with Markdown
-(1) Don't put tabs or spaces in front of your paragraphs and keep lines left-aligned
-(2) End a line with two or more spaces '  ', and then type return
+Best Practice for writing with Markdown  
+(1) Don't put tabs or spaces in front of your paragraphs and keep lines left-aligned  
+(2) End a line with two or more spaces '  ', and then type return  
 
 [Markdown summary sheet](https://www.markdownguide.org/cheat-sheet/)  
 
