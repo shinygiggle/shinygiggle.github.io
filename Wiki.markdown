@@ -13,7 +13,7 @@ Hello World App by Rockycape - You can simply select and then copy the code belo
 
 ```markdown
 chaseme = text('<>',100,100)
-catchme = text('Hello World - You can't catch me!',100,500)
+catchme = text('Hello World - You can\'t catch me!',100,500)
                function drag() {
   chaseme.move(x,y,100)
   if (chaseme.hits(catchme)) {
