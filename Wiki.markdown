@@ -94,8 +94,7 @@ t.pendown()
 for c in range(360):
     t.pencolor(colour[c % 6])
     t.forward(c)
-    t.left(59)h
-```
+    t.left(59)h```
 
 ![Jupyter Turtle Drawing](jupyterturtledrawing.jpg)
 
