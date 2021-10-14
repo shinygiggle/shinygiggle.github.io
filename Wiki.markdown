@@ -86,7 +86,8 @@ move up and down cells with the **`⇧`** and **`⇩`** keys
 
 ### (h) Jupyter Turtle
 
-```from mobilechelonian import Turtle
+```
+from mobilechelonian import Turtle
 t=Turtle()
 colour = [ "red","purple","blue","green","orange","yellow"]
 t.home()
@@ -98,6 +99,77 @@ for c in range(360):
 ```
 
 ![jupyter turtle drawing](assets/jupyterturtledrawing.jpg) <!-- This works for jpeg in assets folder below root -->
+
+
+```
+#sierpinski triangle #1
+from mobilechelonian import Turtle
+t=Turtle()
+t.right(30)
+t.speed(10)
+def sierpinski(size, order):
+    if order == 0:
+        return
+    else:
+        for i in range(0,3):
+            t.forward(size)
+            sierpinski(size/2,order-1)
+            t.backward(size)
+            t.left(120)
+            
+sierpinski(100,5)
+```
+
+![jupyter turtle drawing](assets/jupyterturtledrawing.jpg)
+
+
+```
+#sierpinski triangle #3
+from mobilechelonian import Turtle
+t=Turtle()
+#move turtle to bottom right corner
+t.penup()
+t.speed(10)
+t.backward(200)
+t.right(90)
+t.forward(200)
+t.left(90)
+t.pendown()
+
+angles = [0, 120, 240]
+colors = ["red","blue","purple"]
+
+
+def draw_equi_triang(size):
+    for i in range(3):
+        t.forward(size)
+        t.left(120)
+
+def shift_turtle(size, angle):
+    t.left(angle)
+    t.penup()
+    t.forward(size)
+    t.pendown()
+    t.right(angle)
+
+def sierpinski(order, size, colorChangeDepth = -1):
+    if order == 0:
+        draw_equi_triang(size)
+    else:
+        if colorChangeDepth == 0:
+            for (ind, angle) in enumerate (angles):
+                t.pencolor(colors[ind])
+                sierpinski(order-1, size/2, colorChangeDepth-1)
+                shift_turtle(size/2, angle)
+        else:
+            for angle in angles:
+                sierpinski(order-1, size/2, colorChangeDepth-1)
+                shift_turtle(size/2, angle)
+
+sierpinski(4,300)
+```
+
+![jupyter turtle drawing](assets/jupyterturtledrawing.jpg)
 
 ### (i) Markdown
 
