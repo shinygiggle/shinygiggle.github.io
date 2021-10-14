@@ -97,9 +97,7 @@ for c in range(360):
     t.left(59)h
 ```
 
-![jupyter turtle drawing](../../rockycape/assets/jupyterturtledrawing.jpg)
-
-![jupyter turtle drawing](assets/jupyterturtledrawing.jpg)
+![jupyter turtle drawing](assets/jupyterturtledrawing.jpg) <!-- This works for jpeg in assets folder below root -->
 
 ### (i) Markdown
 
