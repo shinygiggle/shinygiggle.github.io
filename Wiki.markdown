@@ -97,7 +97,7 @@ for c in range(360):
     t.left(59)h
 ```
 
-![Jupyter Turtle Drawing](jupyterturtledrawing.jpg)
+[[assets/jupyterturtledrawing.jpg]]
 
 ### (i) Markdown
 
