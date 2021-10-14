@@ -120,7 +120,7 @@ def sierpinski(size, order):
 sierpinski(100,5)
 ```
 
-![jupyter turtle drawing](assets/jupyterturtledrawing.jpg)
+![sierpinskitriangle01](assets/sierpinskitriangle01.png)
 
 
 ```
@@ -169,7 +169,7 @@ def sierpinski(order, size, colorChangeDepth = -1):
 sierpinski(4,300)
 ```
 
-![jupyter turtle drawing](assets/jupyterturtledrawing.jpg)
+![sierpinskitriangle03](assets/sierpinskitriangle03.png)
 
 ### (i) Markdown
 
