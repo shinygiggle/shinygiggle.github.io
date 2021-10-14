@@ -97,8 +97,8 @@ for c in range(360):
     t.left(59)h
 ```
 
-![jupyter turtle drawing](/rockycape/assets/jupyterturtledrawing.jpg)
-![Book logo](/least-github-pages/assets/logo.png)
+![jupyter turtle drawing](../../rockycape/assets/jupyterturtledrawing.jpg)
+
 
 
 ### (i) Markdown
