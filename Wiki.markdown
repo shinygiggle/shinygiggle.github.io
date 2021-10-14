@@ -99,7 +99,7 @@ for c in range(360):
 
 ![jupyter turtle drawing](../../rockycape/assets/jupyterturtledrawing.jpg)
 
-
+![jupyter turtle drawing](assets/jupyterturtledrawing.jpg)
 
 ### (i) Markdown
 
