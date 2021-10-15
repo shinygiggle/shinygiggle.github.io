@@ -169,7 +169,7 @@ def sierpinski(order, size, colorChangeDepth = -1):
 sierpinski(4,300)
 ```
 
-![sierpinskitriangle03](assets/sierpinskitriangle03.png)
+![sierpinskitriangle02](assets/sierpinskitriangle02.png)
 
 ```
 #sierpinski triangle #3
