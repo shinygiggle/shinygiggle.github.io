@@ -124,7 +124,7 @@ sierpinski(100,5)
 
 
 ```
-#sierpinski triangle #3
+#sierpinski triangle #2
 from mobilechelonian import Turtle
 t=Turtle()
 #move turtle to bottom right corner
@@ -169,6 +169,53 @@ def sierpinski(order, size, colorChangeDepth = -1):
 sierpinski(4,300)
 ```
 
+![sierpinskitriangle03](assets/sierpinskitriangle03.png)
+
+```
+#sierpinski triangle #3
+from mobilechelonian import Turtle
+t=Turtle()
+#move turtle to bottom right corner
+t.penup()
+t.speed(10)
+t.backward(200)
+t.right(90)
+t.forward(200)
+t.left(90)
+t.pendown()
+
+angles = [0, 120, 240]
+colors = ["red","blue","purple"]
+
+
+def draw_equi_triang(size):
+    for i in range(3):
+        t.forward(size)
+        t.left(120)
+
+def shift_turtle(size, angle):
+    t.left(angle)
+    t.penup()
+    t.forward(size)
+    t.pendown()
+    t.right(angle)
+
+def sierpinski(order, size, colorChangeDepth):
+    if order == 0:
+        draw_equi_triang(size)
+    else:
+        if colorChangeDepth == 0:
+            for (ind, angle) in enumerate (angles):
+                t.pencolor(colors[ind])
+                sierpinski(order-1, size/2, colorChangeDepth-1)
+                shift_turtle(size/2, angle)
+        else:
+            for angle in angles:
+                sierpinski(order-1, size/2, colorChangeDepth-1)
+                shift_turtle(size/2, angle)
+
+sierpinski(4,300,0)
+```
 ![sierpinskitriangle03](assets/sierpinskitriangle03.png)
 
 ### (i) Markdown
