@@ -57,13 +57,13 @@ If we want to rid our natural spaces of plastic, we need to promote an [inclusiv
 
 ##### Eleni Iacovidou
 
-Lecturer in Environmental Management, Brunel University London[]](https://theconversation.com/profiles/eleni-iacovidou-752491)
+Lecturer in Environmental Management, Brunel University London[](https://theconversation.com/profiles/eleni-iacovidou-752491)
 
 [![](https://cdn-theconversation-com.cdn.ampproject.org/ii/AW/s/cdn.theconversation.com/avatars/1116444/width170/image-20200618-41213-10m1nqp.jpg)](https://theconversation.com/profiles/norman-ebner-1116444)
 
 ##### Norman Ebner
 
-Postdoctoral Research Associate in Circular Plastics-Techno-Economics, University of Oxford[]](https://theconversation.com/profiles/norman-ebner-1116444)
+Postdoctoral Research Associate in Circular Plastics-Techno-Economics, University of Oxford[](https://theconversation.com/profiles/norman-ebner-1116444)
 
 The authors do not work for, consult, own shares in or receive funding from any company or organisation that would benefit from this article, and have disclosed no relevant affiliations beyond their academic appointment.
 
