@@ -18,10 +18,6 @@ Changes like this are leading to increasing pollution from new plastic productio
 
 Since before the pandemic, governments worldwide have shown a tendency to seek quick-fix solutions to plastic pollution in order to signal a decisive stance on sustainability. For example, a move that commonly receives high levels of political support is a [ban](https://theconversation.com/why-canadas-single-use-plastic-ban-could-help-the-environment-and-wildlife-118796) on single-use plastic plates and cutlery.
 
-##### Join 175,000 people who subscribe to free evidence-based news.
-
-Get newsletter
-
 But while this ban has its benefits, it only provides a [partial solution](https://www.mdpi.com/2071-1050/12/9/3746/htm) to the much larger problem of [excessive consumption](https://news.asu.edu/20181003-solutions-asu-researchers-plastics-pollution-recycling), influenced by our modern [culture of convenience](https://connectedtoportphillip.com/2019/10/22/the-cons-of-convenience-culture-and-5-steps-to-break-away/).
 
 Such actions seem to smooth over the problem of generating plastic waste, when in reality, the resulting proliferation of other single-use items can lead to [even worse](https://www.mdpi.com/2071-1050/12/9/3746/htm) environmental consequences. A far better plan would be to first tackle the problems with plastic production at their source.
@@ -57,23 +53,17 @@ Finally, the role plastic waste plays in different local cultures shouldn't be o
 
 If we want to rid our natural spaces of plastic, we need to promote an [inclusive](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6651478/), transparent approach to how plastic waste is treated.
 
-[Comment on this article](https://theconversation.com/the-plastic-recycling-system-is-broken-heres-how-we-can-fix-it-167657#comments-container "Comment on this article")
-
 [![](https://cdn-theconversation-com.cdn.ampproject.org/ii/AW/s/cdn.theconversation.com/avatars/752491/width170/Eleni_Iacovidou.jpg)](https://theconversation.com/profiles/eleni-iacovidou-752491)
-
-[
 
 ##### Eleni Iacovidou
 
-Lecturer in Environmental Management, Brunel University London](https://theconversation.com/profiles/eleni-iacovidou-752491)
+Lecturer in Environmental Management, Brunel University London[]](https://theconversation.com/profiles/eleni-iacovidou-752491)
 
 [![](https://cdn-theconversation-com.cdn.ampproject.org/ii/AW/s/cdn.theconversation.com/avatars/1116444/width170/image-20200618-41213-10m1nqp.jpg)](https://theconversation.com/profiles/norman-ebner-1116444)
 
-[
-
 ##### Norman Ebner
 
-Postdoctoral Research Associate in Circular Plastics-Techno-Economics, University of Oxford](https://theconversation.com/profiles/norman-ebner-1116444)
+Postdoctoral Research Associate in Circular Plastics-Techno-Economics, University of Oxford[]](https://theconversation.com/profiles/norman-ebner-1116444)
 
 The authors do not work for, consult, own shares in or receive funding from any company or organisation that would benefit from this article, and have disclosed no relevant affiliations beyond their academic appointment.
 
