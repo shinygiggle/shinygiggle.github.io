@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "The plastic recycling system is broken -- here's how we can fix it"
+title: "The plastic recycling system is broken - here's how we can fix it"
 categories: planet
 ---
 The plastic recycling system is broken - here's how we can fix it
