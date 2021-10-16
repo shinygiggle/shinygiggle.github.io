@@ -4,7 +4,6 @@ title: "The plastic recycling system is broken - here's how we can fix it"
 categories: planet
 ---
 
-=================================================================
 
 #### Eleni Iacovidou, Brunel University London, Norman Ebner, University of Oxford
 
