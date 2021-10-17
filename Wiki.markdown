@@ -8,9 +8,9 @@ This wiki page is a collection of bits and pieces of info.
 
 ### (a) Interesting people
 - Simone Weil - French philosopher and social activist
-- blah
-- blah
-- blah
+  - objected to being branded and treated as a number by the car factory she worked for for a time
+  - recognition of how fascism could crush people and remove their human dignity
+  - in Spain during the civil war she learnt there is no safe way to use force.  Force corrupts those who use it and those who suffer from it
 
 
 
