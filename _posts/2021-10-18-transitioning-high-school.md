@@ -1,3 +1,8 @@
+---
+layout: post
+title: "transitioning-to-high-school"
+categories: school
+---
 
 
 
