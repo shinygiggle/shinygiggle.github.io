@@ -1,14 +1,8 @@
 ---
 layout: post
-title: "transitioning-to-high-school"
+title: "transitioning to high school"
 categories: school
 ---
-
-
-
-# transitioning to highschool
-
-
 
 **Transition from primary school to high school**
 
