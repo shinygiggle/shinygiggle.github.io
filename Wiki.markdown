@@ -12,7 +12,7 @@ This wiki page is a collection of bits and pieces of info.
   - recognition of how fascism could crush people and remove their human dignity
   - in Spain during the civil war she learnt there is no safe way to use force.  Force corrupts those who use it and those who suffer from it
 
-<a href="rockycape.github.io/shiny-giggle/assets/patient-information-sheet-on-astrazeneca-covid-19-vaccine-and-thrombosis-with-thrombocytopenia-syndrome-tts.pdf" target="_blank">PDF.</a>
+<a href="/assets/patient-information-sheet-on-astrazeneca-covid-19-vaccine-and-thrombosis-with-thrombocytopenia-syndrome-tts.pdf" target="_blank">PDF.</a>
 
 <!--
 ☯️
