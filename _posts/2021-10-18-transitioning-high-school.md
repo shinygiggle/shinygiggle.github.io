@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "transitioning to high school"
+title: "Transitioning to High School"
 categories: school
 ---
 
