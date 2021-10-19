@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Wiki
+youtubeId: putYourIDHere
 ---
 
 This wiki page is a collection of bits and pieces of info.  
@@ -13,6 +14,12 @@ This wiki page is a collection of bits and pieces of info.
   - in Spain during the civil war she learnt there is no safe way to use force.  Force corrupts those who use it and those who suffer from it
 
 <a href="/shiny-giggle/assets/patient-information-sheet-on-astrazeneca-covid-19-vaccine-and-thrombosis-with-thrombocytopenia-syndrome-tts.pdf" target="_blank">PDF </a>
+
+<!--
+Place this snippet inside your .md file where you want to embed your video:
+https://www.youtube.com/watch?v=TGFezrES-6o
+-->
+{% include youtubePlayer.html id=TGFezrES-6o %}
 
 <!--
 ☯
