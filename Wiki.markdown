@@ -25,7 +25,7 @@ Place this snippet inside your .md file where you want to embed your TWITCH vide
 <iframe src="https://player.twitch.tv/?video=1179180573&time=4h51m7s&parent=www.example.com" frameborder="0" allowfullscreen="true" scrolling="no" height="378" width="620"></iframe>
 
 -->
-{% include twitchPlayer.html id=1179180573&time=4h51m7s domain=rockycape.github.io %}
+{% include twitchPlayer.html id=1179180573&time=4h51m7s domain=www.github.io %}
 
 
 <!--
