@@ -1,6 +1,8 @@
 ---
 layout: page
 title: Wiki
+twitchId: KnottyWildHerringEagleEye-budqzDI_DNBOKWj7
+twitchDomain: rockycape.github.io
 ---
 
 This wiki page is a collection of bits and pieces of info.  
@@ -22,6 +24,9 @@ Place this snippet inside your.md file where you want to embed your TWITCH video
 
 -->
 {% include twitchPlayer.html id=KnottyWildHerringEagleEye-budqzDI_DNBOKWj7 domain=rockycape.github.io %}
+-->
+{% include twitchPlayer.html id=page.twitchId domain=page.twitchDomain %}
+
 
 <!--
 Place this snippet inside your .md file where you want to embed your Youtube video:
