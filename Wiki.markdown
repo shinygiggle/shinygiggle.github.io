@@ -21,7 +21,7 @@ https://www.youtube.com/watch?v=TGFezrES-6o
 
 
 
-{% include twitchPlayer.html id=KnottyWildHerringEagleEye-budqzDI_DNBOKWj7 domain=rockycape.github.io %}  
+{%- include twitchPlayer.html id=KnottyWildHerringEagleEye-budqzDI_DNBOKWj7 domain=rockycape.github.io -%}  
 
 
 
