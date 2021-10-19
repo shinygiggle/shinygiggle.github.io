@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Wiki
+youtubeId: TGFezrES-6o
 twitchId: KnottyWildHerringEagleEye-budqzDI_DNBOKWj7
 twitchDomain: rockycape.github.io
 ---
@@ -34,8 +35,8 @@ Place this snippet inside your.md file where you want to embed your TWITCH video
 Place this snippet inside your .md file where you want to embed your Youtube video:
 https://www.youtube.com/watch?v=TGFezrES-6o
 -->
+{% include youtubePlayer.html id=page.youtubeId %}
 
-{% include youtubePlayer.html id=TGFezrES-6o %}  
 
 
 <!--
