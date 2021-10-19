@@ -26,7 +26,7 @@ Place this snippet inside your .md file where you want to embed your TWITCH vide
 
 
 -->
-{% include twitchPlayer.html id=StylishChillyTubersDancingBaby domain=github.io %}
+{% include twitchPlayer.html id=StylishChillyTubersDancingBaby domain=github.com %}
 
 
 <!--
