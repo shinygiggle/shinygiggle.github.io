@@ -30,8 +30,6 @@ Place this snippet inside your .md file where you want to embed your TWITCH vide
 {% include twitchPlayer.html id=KnottyWildHerringEagleEye-budqzDI_DNBOKWj7 domain=github.io %}
 -->
 
-<div style="padding-bottom: 56.25%; position: relative;"><iframe width="100%" height="100%" src="https://clips.twitch.tv/embed?autoplay=false&clip=KnottyWildHerringEagleEye-budqzDI_DNBOKWj7&parent=github.io" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture; fullscreen"  style="position: absolute; top: 0px; left: 0px; width: 100%; height: 100%;"><small>Twitch embedding powered by <a href="https://embed.tube">embed.tube</a></small></iframe></div>
-
 
 <!--
 ☯
