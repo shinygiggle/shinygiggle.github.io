@@ -19,7 +19,7 @@ Place this snippet inside your .md file where you want to embed your Youtube vid
 https://www.youtube.com/watch?v=TGFezrES-6o
 -->
 
-{% include youtubePlayer.html id=TGFezrES-6o %}  
+
 
 {% include twitchPlayer.html id=KnottyWildHerringEagleEye-budqzDI_DNBOKWj7 domain=rockycape.github.io %}  
 
@@ -32,6 +32,7 @@ Place this snippet inside your.md file where you want to embed your TWITCH video
 -->
 {% include twitchPlayer.html id=KnottyWildHerringEagleEye-budqzDI_DNBOKWj7 domain=rockycape.github.io %}
 
+{% include youtubePlayer.html id=TGFezrES-6o %}  
 
 
 <!--
