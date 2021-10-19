@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Wiki
-youtubeId: putYourIDHere
+youtubeId: TGFezrES-6o
 ---
 
 This wiki page is a collection of bits and pieces of info.  
@@ -19,7 +19,7 @@ This wiki page is a collection of bits and pieces of info.
 Place this snippet inside your .md file where you want to embed your video:
 https://www.youtube.com/watch?v=TGFezrES-6o
 -->
-{% include youtubePlayer.html id=TGFezrES-6o %}
+{% include youtubePlayer.html id=page.youtubeId %}
 
 <!--
 ☯
