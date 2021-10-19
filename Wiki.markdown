@@ -22,9 +22,10 @@ https://www.youtube.com/watch?v=TGFezrES-6o
 
 <!--
 Place this snippet inside your .md file where you want to embed your TWITCH video:
-https://www.youtube.com/watch?v=TGFezrES-6o
+<iframe src="https://player.twitch.tv/?video=1179180573&time=4h51m7s&parent=www.example.com" frameborder="0" allowfullscreen="true" scrolling="no" height="378" width="620"></iframe>
+
 -->
-{% include twitchPlayer.html id=page.twitchId domain=page.twitchDomain %}
+{% include twitchPlayer.html id=1179180573&time=4h51m7s domain=rockycape.github.io %}
 
 
 <!--
