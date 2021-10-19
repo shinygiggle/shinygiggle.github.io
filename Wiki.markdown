@@ -27,7 +27,8 @@ Place this snippet inside your.md file where you want to embed your TWITCH video
 
 {% include twitchPlayer.html id=KnottyWildHerringEagleEye-budqzDI_DNBOKWj7 domain=rockycape.github.io %}
 -->
-[https://www.hltv.org/team/11300/lookingfororg#tab-rosterBox](https://www.hltv.org/team/11300/lookingfororg#tab-rosterBox)
+[https://www.hltv.org/team/11300/lookingfororg#tab-rosterBox](https://www.hltv.org/team/11300/lookingfororg#tab-rosterBox)  
+
 [ESEA PREMIER counterstrike Season_38 info on liquipedia.net](https://liquipedia.net/counterstrike/ESEA/Season_38/Premier/Australia)
 
 {% include twitchPlayer.html id=page.twitchId domain=page.twitchDomain %}
