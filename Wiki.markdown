@@ -22,13 +22,13 @@ https://www.youtube.com/watch?v=TGFezrES-6o
 -->
 
 <!--
-Place this snippet inside your .md file where you want to embed your TWITCH video:
+Place this snippet inside your.md file where you want to embed your TWITCH video:
 <iframe src="https://clips.twitch.tv/embed?clip=KnottyWildHerringEagleEye-budqzDI_DNBOKWj7&parent=www.example.com" frameborder="0" allowfullscreen="true" scrolling="no" height="378" width="620"></iframe>
 
-
-
-{% include twitchPlayer.html id=KnottyWildHerringEagleEye-budqzDI_DNBOKWj7 domain=github.io %}
 -->
+
+{% include twitchPlayer.html id=KnottyWildHerringEagleEye-budqzDI_DNBOKWj7 domain="github.io" %}
+
 
 
 <!--
