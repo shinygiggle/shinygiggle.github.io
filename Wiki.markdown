@@ -28,14 +28,14 @@ Place this snippet inside your.md file where you want to embed your TWITCH video
 {% include twitchPlayer.html id=KnottyWildHerringEagleEye-budqzDI_DNBOKWj7 domain=rockycape.github.io %}
 -->
 
+[ESEA PREMIER counterstrike Season_38 info on liquipedia.net](https://liquipedia.net/counterstrike/ESEA/Season_38/Premier/Australia)
+
 {% include twitchPlayer.html id=page.twitchId domain=page.twitchDomain %}
 
-ouy era woh olleh
-uoy era woh olleh
 
 {% include youtubePlayer.html id=page.youtubeId %}
 
-[ESEA PREMIER counterstrike Season_38 info on liquipedia.net](https://liquipedia.net/counterstrike/ESEA/Season_38/Premier/Australia)
+
 
 <!--
 ☯
