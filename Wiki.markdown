@@ -17,11 +17,16 @@ The most notable results for the side since they began representing Dire Wolves 
 
 The roster as it will sit next month:
 
--   https://s.w.org/images/core/emoji/13.1.0/svg/1f1e6-1f1fa.svg Jared "HaZR" O'Bree
--   https://s.w.org/images/core/emoji/13.1.0/svg/1f1f3-1f1ff.svg Euan "sterling" Moore
--   https://s.w.org/images/core/emoji/13.1.0/svg/1f1e6-1f1fa.svg Benson "Liki" Niuila
--   https://s.w.org/images/core/emoji/13.1.0/svg/1f1e6-1f1fa.svg James "SaVage" Savage
--   https://s.w.org/images/core/emoji/13.1.0/svg/1f1e6-1f1fa.svg Mike "ap0c" Aliferis
+<img src="https://s.w.org/images/core/emoji/13.1.0/svg/1f1e6-1f1fa.svg" alt="Kitten"
+	title="A cute kitten" width="150" height="100" /> Jared "HaZR" O'Bree 
+<img src="https://s.w.org/images/core/emoji/13.1.0/svg/1f1f3-1f1ff.svg" alt="Kitten"
+	title="A cute kitten" width="150" height="100" /> Euan "sterling" Moore
+<img src="https://s.w.org/images/core/emoji/13.1.0/svg/1f1e6-1f1fa.svg" alt="Kitten"
+	title="A cute kitten" width="150" height="100" /> Benson "Liki" Niuila
+<img src="https://s.w.org/images/core/emoji/13.1.0/svg/1f1e6-1f1fa.svg" alt="Kitten"
+	title="A cute kitten" width="150" height="100" /> James "SaVage" Savage
+<img src="https://s.w.org/images/core/emoji/13.1.0/svg/1f1e6-1f1fa.svg" alt="Kitten"
+	title="A cute kitten" width="150" height="100" /> Mike "ap0c" Aliferis
 
 <!--
 Place this snippet inside your.md file where you want to embed your TWITCH video:
