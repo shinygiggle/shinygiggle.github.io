@@ -14,15 +14,6 @@ This wiki page is a collection of bits and pieces of info.
 
 <a href="/shiny-giggle/assets/patient-information-sheet-on-astrazeneca-covid-19-vaccine-and-thrombosis-with-thrombocytopenia-syndrome-tts.pdf" target="_blank">PDF </a>
 
-<!--
-Place this snippet inside your .md file where you want to embed your Youtube video:
-https://www.youtube.com/watch?v=TGFezrES-6o
--->
-
-
-
-{%- include twitchPlayer.html id=KnottyWildHerringEagleEye-budqzDI_DNBOKWj7 domain=rockycape.github.io -%}  
-
 
 
 <!--
@@ -31,6 +22,11 @@ Place this snippet inside your.md file where you want to embed your TWITCH video
 
 -->
 {% include twitchPlayer.html domain=rockycape.github.io id=KnottyWildHerringEagleEye-budqzDI_DNBOKWj7 %}
+
+<!--
+Place this snippet inside your .md file where you want to embed your Youtube video:
+https://www.youtube.com/watch?v=TGFezrES-6o
+-->
 
 {% include youtubePlayer.html id=TGFezrES-6o %}  
 
