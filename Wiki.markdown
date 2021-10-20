@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Wiki
-youtubeId: TGFezrES-6o
+youtubeId: JCa_F5ZMgUc?t=4785
 twitchId: KnottyWildHerringEagleEye-budqzDI_DNBOKWj7
 twitchDomain: rockycape.github.io
 ---
