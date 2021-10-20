@@ -10,7 +10,7 @@ twitchDomain: rockycape.github.io
 
  
 
-### eSports CS:GO Looking  For Org (formally [Dire Wolves](http://https://www.direwolves.gg/teams))
+### eSports CS:GO Looking  For Org (formerly [Dire Wolves](http://https://www.direwolves.gg/teams))
  
 The roster was [acquired](https://twitter.com/DireWolves/status/1364738881384374274) by Dire Wolves earlier this year (2021) in February as part of the [takeover and merger](https://twitter.com/AvantGaming/status/1364477662761279488) of AVANT Gaming --- another Australian organization that hosted an earlier iteration of the roster since 2019. Since the acquisition, the squad has peaked at #74 in June on the HLTV.org global rankings, and as of the 23rd of August 2021, they sit at #4 in the Oceanic rankings behind Renegades, EXTREMUM, and ORDER. The most recent change that the roster experienced [dates back to July](https://twitter.com/DireWolves/status/1414845801474535424) with the departure of Jay "soju_j" Jeong and the addition of Mike "ap0c" Aliferis.
 
