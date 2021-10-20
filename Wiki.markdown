@@ -46,7 +46,7 @@ Place this snippet inside your.md file where you want to embed your TWITCH video
 
 [ESEA PREMIER counterstrike Season_38 info on liquipedia.net](https://liquipedia.net/counterstrike/ESEA/Season_38/Premier/Australia)
 
-<a href="/shiny-giggle/assets/DireWolf-results-2021-10-20-18_04_12" target="_blank">PDF </a>
+<a href="/shiny-giggle/assets/DireWolf-results-2021-10-20-18_04_12" target="_blank">DireWolf-results-2021.PDF</a>
 
 
 {% include youtubePlayer.html id=page.youtubeId %}
