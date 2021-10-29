@@ -4,14 +4,14 @@ title: "Car & Home Battery Recycling"
 categories: recycle
 ---
 
-Electric cars and home batteries are already posing a waste problem in Australia. Here's why
-============================================================================================
+**Electric cars and home batteries are already posing a waste problem in Australia. Here's why**
+
 
 [The Business](https://www.abc.net.au/news/programs/the-business/)
 
- / [Emilia Terzon](https://www.abc.net.au/news/emilia-terzon/5769642)
+ [Emilia Terzon](https://www.abc.net.au/news/emilia-terzon/5769642)
 
-Posted Mon 25 Oct 2021 at 6:21amMonday 25 Oct 2021 at 6:21am, updated Mon 25 Oct 2021 at 10:23amMonday 25 Oct 2021 at 10:23am
+Posted Monday 25 Oct 2021 at 6:21am, updated Mon 25 Oct 2021 at 10:23am
 
 ![A battery from inside a recalled Hyundai electric car in a factory.](https://live-production.wcms.abc-cdn.net.au/a2ee194a257de1df68abcc50ea252923?impolicy=wcms_crop_resize&cropH=2268&cropW=4032&xPos=0&yPos=662&width=862&height=485)
 
@@ -21,12 +21,9 @@ Help keep family & friends informed by sharing this article
 
 abc.net.au/news/electric-car-solar-battery-storage-waste-recycling/100564234
 
-COPY LINKSHARE
-
 Australians may have only just started buying electric vehicles (EVs) and household batteries, but several product recalls are showing why a national plan for dealing with renewable energy waste may already be needed.
 
 Key points:
------------
 
 -   Battery recyclers in Australia are currently dealing with a recall by Hyundai and LG
 -   Recycling batteries used in electric cars and home energy storage is a new area for the waste management business
@@ -42,8 +39,7 @@ Processing the lithium-ion batteries inside these products is a new and complica
 
 Projections are that this waste stream will soar in coming years, and there are currently no overarching rules on how companies, consumers or recyclers should manage it.
 
-What's happening to the recalled cars?
---------------------------------------
+**What's happening to the recalled cars?**
 
 Hyundai's confirmed that the lithium-ion polymer batteries from its recalled Kona and Ioniq cars in Australia are going to Melbourne recycler EcoBatt.
 
@@ -67,17 +63,15 @@ Jason says the company had been planning for this waste stream to start coming t
 
 Around 31,000 home battery storage units were sold last year in Australia, while the number of EVs was much smaller at 6,000. Most of the batteries inside these come with expected lifespans of between five and 10 years, although that's increasing as technology improves.
 
-[
+### Batteries of the future set to be cheaper and better   
 
-### Batteries of the future set to be cheaper and better
+
 
 ![An EV plug surrounded by bright blue LEDs](https://live-production.wcms.abc-cdn.net.au/94c40750dfe2d29318c8c59443deedea?impolicy=wcms_crop_resize&cropH=2813&cropW=5000&xPos=0&yPos=262&width=862&height=485)
 
 Australian researchers say they've opened the path to a new generation of batteries that could allow an electric vehicle to drive from Melbourne to Sydney on a single charge.
 
-Read more
-
-](https://www.abc.net.au/news/science/2021-09-14/batteries-lithium-sulfur-sugar-future-electric-vehicles/100457492)
+[Read more](https://www.abc.net.au/news/science/2021-09-14/batteries-lithium-sulfur-sugar-future-electric-vehicles/100457492)
 
 In a recent report on the issue, the CSIRO projected the waste stream from EVs alone could reach 180,000 tonnes by 2036 in Australia.
 
@@ -95,8 +89,7 @@ EcoBatt's founder Doug Rowe is particularly concerned about safety issues. The c
 
 "It is a new and high-risk business when not done with the correct safety equipment, and few know exactly what the best way is to handle and process these batteries," Doug says.
 
-Fire risk a very real one in this industry
-------------------------------------------
+**Fire risk a very real one in this industry**
 
 Dealing with fires is something Envirostream has particular experience with -- one of its factories was engulfed in flames in 2019.
 
@@ -152,8 +145,7 @@ However, it charges companies to take their waste, as it is still grappling with
 
 "We're looking at other markets and other ways that we can refine it down further and get a better more purified product at the end of the day to obviously get a better return for it."
 
-What about Tesla and other major brands?
-----------------------------------------
+**What about Tesla and other major brands?**
 
 Along with Hyundai and LG, prominent industry leader Tesla has confirmed to ABC News that it uses a local recycler for its home storage battery units and electric cars in Australia.
 
@@ -179,8 +171,7 @@ Redback -- which makes home storage units -- said much of its e-waste components
 
 "Redback Technologies don't manufacture batteries and the batteries used are returned to the manufacturer at the end of their life," a Redback spokesperson said.
 
-What is the national plan for recycling?
-----------------------------------------
+**What is the national plan for recycling?**
 
 There's currently no national plan on what should be done with all of this emerging waste from renewable energy products --- but it is on the agenda for an industry-led initiative called the Battery Stewardship Council (BSC).
 
@@ -218,8 +209,8 @@ And this isn't only about money. The minerals in these products are finite.
 
 "We need to ensure that we're recovering those and putting them back into the remanufacturing process so that by the time we get to 2050, we'd haven't run out of our stocks."
 
-Industry code of conduct on the horizon
----------------------------------------
+**Industry code of conduct on the horizon**
+
 
 The BSC is about to implement a product recovery scheme for the smaller sorts of non-lithium batteries found in e-waste such as remotes, appliances and watches.
 
