@@ -9,4 +9,4 @@ permalink: /about/
 
 This website is about defending the planet, defeating poverty, and cycling.
 
-![Global-Citizen-Live](GlobalCitizenLive.jpg)
+![Global-Citizen-Live](/assets/GlobalCitizenLive.jpg)
