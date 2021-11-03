@@ -8,3 +8,5 @@ permalink: /about/
 ### ![shiny-giggle](favicon-32x32.png)  shiny-giggle
 
 This website is about defending the planet, defeating poverty, and cycling.
+
+![Global-Citizen-Live](GlobalCitizenLive.jpg)
