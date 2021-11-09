@@ -3,8 +3,7 @@ layout: post
 title: "Exploring Australia's Volcanic Past"
 categories: science
 author:
-- Bart Simpson
-- Nelson Mandela Muntz
+- Auspost Philatelic Team
 ---
 
 -   09 JULY 2021
@@ -71,3 +70,5 @@ Heather is also very pleased to see volcanoes reach the public as a theme on Aus
 * * * * *
 
 The [Australia's Volcanic Past stamp issue](https://australiapostcollectables.com.au/stamp-issues/australias-volcanic-past) is available from 13 July 2021, online, at participating Post Offices and via mail order on 1800 331 794, while stocks last.
+
+[Auspost Philatelic Team](https://australiapostcollectables.com.au/about-us/meet-our-philatelic-team)
