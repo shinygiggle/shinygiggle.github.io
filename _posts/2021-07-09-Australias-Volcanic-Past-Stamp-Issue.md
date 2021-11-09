@@ -1,9 +1,11 @@
 ---
-layout: page
+layout: post
 title: "Exploring Australia's Volcanic Past"
+categories: science
+author:
+- Bart Simpson
+- Nelson Mandela Muntz
 ---
-
-
 
 -   09 JULY 2021
 -   15 MINS
