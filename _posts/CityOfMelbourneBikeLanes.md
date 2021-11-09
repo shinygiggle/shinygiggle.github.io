@@ -1,6 +1,10 @@
 ---
-layout: page
+layout: post
 title: "City Of Melbourne Bike Lanes"
+categories: cycling
+author:
+- Bart Simpson
+- Nelson Mandela Muntz
 ---
 
 
