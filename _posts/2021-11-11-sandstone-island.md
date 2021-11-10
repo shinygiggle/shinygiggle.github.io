@@ -12,16 +12,13 @@ Update: Sandstone Island sold 11/11/2021
 Sandstone Island Vendors details in pdf below:
 <a href="/shiny-giggle/assets/IM-Sandstone-Island-VicProp-Version.pdf" target="_blank">IM-Sandstone-Island-VicProp-Version.pdf</a> 
 
-Sandstone Island Purchaser remains private:
+Sandstone Island Purchaser remains private and RT Edgar Manningham and Boroondara director James Hatzolos said about a week of negotiations were required to execute the sale 
 
-RT Edgar Manningham and Boroondara director James Hatzolos said about a week of negotiations were required to execute the sale 
+Sandstone Island sale details (source: Herald Sun Melbourne 11/11/21 p3 in pdf below:
 
-Sandstone Island sale details (source: Herald Sun Melbourne 11/11/21 p3 in pdf below:  
+
 
 <a href="/shiny-giggle/assets/News_Article__Herald_Sun_Sunday_Herald_Sun_Melbourne_Australia___November_11_2021__p3.pdf  " target="_blank">News_Article__Herald_Sun_Sunday_Herald_Sun_Melbourne_Australia___November_11_2021__p3.pdf  </a> 
-
-
-
 
 
 Sandstone Island for sale off the Mornington Peninsula coast
