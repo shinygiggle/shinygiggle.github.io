@@ -14,11 +14,7 @@ Sandstone Island for sale off the Mornington Peninsula coast
 
 ![Samantha Landy](https://www.realestate.com.au/blog/images/2464x2545-fit,progressive/2019/01/16153819/CHP_Export_175655793_Herald-Sun-realestate-reporter-Samantha-Landy.-Picture-Josie-Hayden1.jpg "Samantha Landy")
 
-[
-
-Samantha Landy
-
-](https://www.realestate.com.au/news/author/samantha-landy/)
+[Samantha Landy](https://www.realestate.com.au/news/author/samantha-landy/)
 
 2 Nov 2018, 6:00am
 
