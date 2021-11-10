@@ -13,7 +13,7 @@ Sandstone Island vendors details in pdf below:
 
 <a href="/shiny-giggle/assets/IM-Sandstone-Island-VicProp-Version.pdf" target="_blank">IM-Sandstone-Island-VicProp-Version.pdf</a> 
 
-Sandstone Island Purchaser remains private and RT Edgar Manningham and Boroondara director James Hatzolos said about a week of negotiations were required to execute the sale 
+Sandstone Island purchaser details have not been disclosed and RT Edgar Manningham and Boroondara director James Hatzolos said about a week of negotiations were required to execute the sale 
 
 Sandstone Island sale details (source: Herald Sun Melbourne 11/11/21 p3 in pdf below:
 
