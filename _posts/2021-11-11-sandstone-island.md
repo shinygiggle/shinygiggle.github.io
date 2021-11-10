@@ -8,6 +8,7 @@ author:
 
 Update: sold 11/11/2021 - RT Edgar Manningham and Boroondara director James Hatzolos said about a week of negotiations were required to execute the sale 
 
+<a href="/shiny-giggle/assets/IM-Sandstone-Island-VicProp-Version.pdf" target="_blank">IM-Sandstone-Island-VicProp-Version.pdf</a> 
 
 Sandstone Island for sale off the Mornington Peninsula coast
 ============================================================
