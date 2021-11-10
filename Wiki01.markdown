@@ -1,4 +1,4 @@
 ---
 layout: page
-title: Wiki01
+title: Wiki
 ---
