@@ -12,6 +12,8 @@ Update: sold 11/11/2021 - RT Edgar Manningham and Boroondara director James Hatz
 Sandstone Island for sale off the Mornington Peninsula coast
 ============================================================
 
+<img src="https://www.realestate.com.au/blog/images/2464x2545-fit,progressive/2019/01/16153819/CHP_Export_175655793_Herald-Sun-realestate-reporter-Samantha-Landy.-Picture-Josie-Hayden1.jpg" width="100" height="100">
+
 ![Samantha Landy](https://www.realestate.com.au/blog/images/2464x2545-fit,progressive/2019/01/16153819/CHP_Export_175655793_Herald-Sun-realestate-reporter-Samantha-Landy.-Picture-Josie-Hayden1.jpg "Samantha Landy")
 
 [Samantha Landy](https://www.realestate.com.au/news/author/samantha-landy/)
@@ -32,12 +34,6 @@ Ray White Rural Victoria director Jason Hellyer said the 22.25ha "blank canvas" 
 
 **RELATED: [Elizabeth Island for sale off the coast of Victoria\
 ](https://www.realestate.com.au/news/elizabeth-island-for-sale-off-the-coast-of-victoria/?rsf=syn:news:nca:hs:socref)**
-
-**[The perfect pad to snap up for summer](https://www.realestate.com.au/news/blairgowrie-coastal-charmer-the-perfect-house-purchase-heading-into-summer/?rsf=syn:news:nca:hs:socref)**
-
-**[Keen contest expected for footy legend Lou Richards' beachside home](https://www.realestate.com.au/news/keen-contest-expected-for-footy-legends-beachside-home/?rsf=syn:news:nca:hs:socref)**
-
-**[](https://www.realestate.com.au/news/keen-contest-expected-for-footy-legends-beachside-home/?rsf=syn:news:nca:hs:spa)**
 
 ![](https://www.realestate.com.au/blog/images/762x429-fit,progressive/2018/11/02060004/capi_38b8c062e891836de95096bb8fb6e282_fdc6f22842f1467037a2ed7303cf4bc5.jpeg)
 
