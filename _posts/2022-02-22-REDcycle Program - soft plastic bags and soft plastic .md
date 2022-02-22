@@ -6,7 +6,7 @@ categories: school
 
 [redcycle.net.au/what-to-redcycle/](https://redcycle.net.au/what-to-redcycle/)
 
-what to REDcycle - scrunch it up tight - if it pings back, it’s a useful indicator it's soft plastic
+what to REDcycle - soft plastic bags and soft plastic
 ----------------
 
 The REDcycle Program makes it easy for consumers to keep plastic bags and packaging out of landfill.
