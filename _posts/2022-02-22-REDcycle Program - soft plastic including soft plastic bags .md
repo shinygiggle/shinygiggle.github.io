@@ -6,7 +6,7 @@ categories: recycling
 
 [redcycle.net.au/what-to-redcycle/](https://redcycle.net.au/what-to-redcycle/)
 
-what to REDcycle - soft plastic bags and soft plastic
+what to REDcycle - soft plastic including soft plastic bags 
 ----------------
 
 The REDcycle Program makes it easy for consumers to keep plastic bags and packaging out of landfill.
