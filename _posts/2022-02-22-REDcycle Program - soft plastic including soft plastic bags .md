@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "REDcycle Program - soft plastic bags and soft plastic"
-categories: school
+title: "REDcycle Program - soft plastic including soft plastic bags"
+categories: recycling
 ---
 
 [redcycle.net.au/what-to-redcycle/](https://redcycle.net.au/what-to-redcycle/)
