@@ -4,7 +4,7 @@ title: "REDcycle Program - plastic bags and non-firm packaging"
 categories: school
 ---
 
-**Transition from primary school to high school**
+https://redcycle.net.au/what-to-redcycle/
 
 what to REDcycle - scrunch it up tight - if it pings back, it’s a useful indicator it's soft plastic
 ----------------
