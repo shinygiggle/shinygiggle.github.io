@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "REDcycle Program - plastic bags and soft packaging that can be scrunched and springs back"
+title: "REDcycle Program - soft plastic bags and soft plastic"
 categories: school
 ---
 
