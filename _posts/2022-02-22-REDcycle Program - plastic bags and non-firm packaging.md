@@ -4,14 +4,14 @@ title: "REDcycle Program - plastic bags and soft packaging that can be scrunched
 categories: school
 ---
 
-https://redcycle.net.au/what-to-redcycle/
+[redcycle.net.au/what-to-redcycle/](https://redcycle.net.au/what-to-redcycle/)
 
 what to REDcycle - scrunch it up tight - if it pings back, it’s a useful indicator it's soft plastic
 ----------------
 
 The REDcycle Program makes it easy for consumers to keep plastic bags and packaging out of landfill.
 
-First, please check the packaging for any sign of the new Australian Recycling Label (ARL) symbols (find out more about these at [https://recyclingnearyou.com.au/arl/](https://l.facebook.com/l.php?u=https%3A%2F%2Frecyclingnearyou.com.au%2Farl%2F%3Ffbclid%3DIwAR0MwEy3mq9xeki8WacWig1LKWA8STr7cowTExWHR5ns2hgssl_0AKmMuNk&h=AT10VFqF_XjC6BSwFVhdWC1WTIAgz00nTlpb-9wPNnDzAkOZW7js128MEAjYfNX1PHMyDI7JJTUKsakqSLyE2EzwdoG7HomnnsHM7JxuegO6RNwVloOBHgHBZtxOUeWNukfnxKtUkqV-0_zAwQ&__tn__=-UK-R&c[0]=AT2YxaiLx4Vv2Sk_FUiL-JRtoAROGz6dSikQiF8rP9B8PgFXrlIUCyDKAx3AC33LUuY2hWzxRTnqNBfsvnYr81e3zvF-mJ7aEFyo2HRYCBlDXFzkJ_Ju8oY0-jPkVt9WTW6Y4OOx1s_paQwU0PHONPvTvaFxQy9fIJ9EG1x2lt2jag5wmjL1xnmlLFwMl_h--r6b6EYn)) OR the REDcycle logo.  In the absence of one of these symbols (note these are gradually being rolled out to ALL types of packaging -- this will just take a little bit of time), use the below table as your guide.
+First, please check the packaging for any sign of the new Australian Recycling Label (ARL) symbols (find out more about these at [https://recyclingnearyou.com.au/arl/](https://recyclingnearyou.com.au/arl/) OR the REDcycle logo.  In the absence of one of these symbols (note these are gradually being rolled out to ALL types of packaging -- this will just take a little bit of time), use the below table as your guide.
 
 Please note: we are not able to accept materials in black (or dark green) garbage bags. The supermarket staff nor our drivers can easily see the contents of the bags, meaning that they cannot easily detect whether or not they contain any contaminants/garbage. In relation to individual pieces of black soft plastic (and black bags that do not contain other soft plastic packaging), these are fine to REDcycle, just please cut to A3 size pieces or smaller.
 
