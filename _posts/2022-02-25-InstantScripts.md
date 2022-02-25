@@ -5,8 +5,6 @@ categories: health
 ---
 
 
-InstantScripts: Aussie online prescription, doctor service makes $11m
-=====================================================================
 
 Kara Byers
 
