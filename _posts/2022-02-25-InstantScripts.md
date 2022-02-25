@@ -67,7 +67,7 @@ And when asked about how InstantScripts manages to keep its prescriptions to $15
 
 
 
-#Ex-investment banker scores $11m after quitting to start a tech firm
+# Ex-investment banker scores $11m after quitting to start a tech firm
 
 ![Yolanda Redrup](https://static.ffx.io/images/$width_140%2C$height_140/t_crop_auto%2Cq_auto:best%2Cfl_any_format/cdd38c4b4a94da7cc46d9394cd2ba68b4cb4d09e)
 
