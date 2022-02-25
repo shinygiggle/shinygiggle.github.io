@@ -74,9 +74,9 @@ And when asked about how InstantScripts manages to keep its prescriptions to $15
 [Yolanda Redrup](https://www.afr.com/by/yolanda-redrup-j7gdq)  
 Reporter
 
-Jun 14, 2021 -- 10.05am
+AFR Jun 14, 2021 -- 10.05am
 
-
+[www.afr.com](https://www.afr.com/technology/ex-investment-banker-scores-11m-after-quitting-to-start-a-tech-firm-20210609-p57zho)
 
 A former Citi investment banker who gave up his corporate career to become a doctor, but instead tried his hand at entrepreneurship, has raised almost $11 million for his AI-enabled telehealth start-up, which gives people access to prescriptions quickly.
 
