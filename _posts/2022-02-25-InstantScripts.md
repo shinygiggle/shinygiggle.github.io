@@ -63,20 +63,17 @@ And when asked about how InstantScripts manages to keep its prescriptions to $15
 "We have partnered with more than 3500 pharmacies across the country, which accounts for over half the pharmacies in Australia. However, we would love to see standardised pricing across the board."
 
 
+---
 
 
 
-
-***Ex-investment banker scores $11m after quitting to start a tech firm***
+**Ex-investment banker scores $11m after quitting to start a tech firm**
 
 ![Yolanda Redrup](https://static.ffx.io/images/$width_140%2C$height_140/t_crop_auto%2Cq_auto:best%2Cfl_any_format/cdd38c4b4a94da7cc46d9394cd2ba68b4cb4d09e)
 
 [Yolanda Redrup](https://www.afr.com/by/yolanda-redrup-j7gdq)Reporter
 
 Jun 14, 2021 -- 10.05am
-
-
-[Yolanda Redrup](https://www.afr.com/by/yolanda-redrup-j7gdq) is an award-winning journalist who writes on technology and healthcare from our Melbourne newsroom. Connect with Yolanda on [Twitter](https://twitter.com/YolandaRedrup?lang=en). Email Yolanda at <yolanda.redrup@afr.com.au>
 
 
 
