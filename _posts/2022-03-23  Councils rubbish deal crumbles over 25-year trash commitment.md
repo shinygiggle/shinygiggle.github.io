@@ -1,3 +1,12 @@
+---
+layout: post
+title: "Councils’ rubbish deal crumbles over 25-year trash commitment"
+categories: recycling
+---
+
+[https://www.theage.com.au/politics/victoria/councils-dump-hypocritical-25-year-waste-deal-20220321-p5a6fc.html](https://www.theage.com.au/politics/victoria/councils-dump-hypocritical-25-year-waste-deal-20220321-p5a6fc.html)
+
+
 A plan to process the rubbish from 15 local government areas in Melbourne's south-east is on the brink of implosion after the councils, which are pushing households to reduce their weekly garbage, were asked to commit to minimum levels of waste for the next 25 years.
 
 The councils set up the South East Metropolitan Advanced Waste Processing company to process their household rubbish in new facilities.
