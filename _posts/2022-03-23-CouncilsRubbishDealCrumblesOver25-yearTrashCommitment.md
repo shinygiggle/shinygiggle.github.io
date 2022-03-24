@@ -4,7 +4,7 @@ title: "Councils’ rubbish deal crumbles over 25-year trash commitment"
 categories: recycling
 ---
 
-[https://www.theage.com.au/politics/victoria/councils-dump-hypocritical-25-year-waste-deal-20220321-p5a6fc.html](https://www.theage.com.au/politics/victoria/councils-dump-hypocritical-25-year-waste-deal-20220321-p5a6fc.html)
+[link to original age article](https://www.theage.com.au/politics/victoria/councils-dump-hypocritical-25-year-waste-deal-20220321-p5a6fc.html)
 
 
 A plan to process the rubbish from 15 local government areas in Melbourne's south-east is on the brink of implosion after the councils, which are pushing households to reduce their weekly garbage, were asked to commit to minimum levels of waste for the next 25 years.
@@ -26,7 +26,6 @@ RELATED ARTICLE
 
 ![Three year old Abby runs past bins in Spotswood, Melbourne. Australian environment Minister Sussan Ley wants bin "harmonisation" to ensure all guidelines are the same. ](https://static.ffx.io/images/$zoom_0.23643670462156732%2C$multiply_0.2842%2C$ratio_1.776846%2C$width_1059%2C$x_0%2C$y_79/t_crop_custom/q_86%2Cf_auto/bfc02a05469346376f67763d2b6338c72bba6052)
 
-](https://www.theage.com.au/environment/sustainability/calls-for-national-bin-harmonisation-to-make-recycling-easier-20220215-p59wjk.html)
 
 ##### [Waste](https://www.theage.com.au/topic/waste-hup)
 
