@@ -3,7 +3,6 @@ layout: post
 title: "Getting into Exercise: How to get into and stick at exercise"
 categories: exercise
 image: /assets/bruno-nascimento-PHIgYUGQPvU-unsplash.jpg
-photoby: "@bruno_nascimento"
 ---
 
 Getting into exercise is something that everyone says they want to do, but a lot of people find it difficult to actually get around to doing it. Usually there is a reason -- something else to do, a lack of time, or possibly an injury -- that prevents you from exercising.
