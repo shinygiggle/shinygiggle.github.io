@@ -6,7 +6,7 @@ image: /assets/bruno-nascimento-PHIgYUGQPvU-unsplash.jpg
 photoby: "@bruno_nascimento"
 ---
 
-Getting into exercise is something that everyone says they want to do, but a lot of people find difficult to actually get around to doing. Usually there is a reason -- something else to do, a lack of time, or possibly an injury -- that prevents you from exercising.
+Getting into exercise is something that everyone says they want to do, but a lot of people find it difficult to actually get around to doing it. Usually there is a reason -- something else to do, a lack of time, or possibly an injury -- that prevents you from exercising.
 
 Exercise is important for a number of reasons we have all heard before, but it's worth a recap.
 
