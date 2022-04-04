@@ -2,7 +2,7 @@
 layout: post
 title: "Your good posture guide"
 categories: posture
-image: /assets/shoelaces.png
+image: /assets/sittingdesk.png
 ---
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce bibendum neque eget nunc mattis eu sollicitudin enim tincidunt. Vestibulum lacus tortor, ultricies id dignissim ac, bibendum in velit.
