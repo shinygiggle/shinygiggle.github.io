@@ -5,7 +5,7 @@ permalink: /about/
 ---
 
 
-### ![pebbles](chiro.londonlogo.jpeg)  shiny-giggle
+### shiny-giggle
 
 This website is about getting and staying active.
 
