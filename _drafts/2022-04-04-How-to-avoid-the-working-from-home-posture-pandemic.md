@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "How to avoid the working from home 'posture pandemic'"
-categories: exercise
+categories: posture
 image: /assets/workingfromhome.png
 ---
 
