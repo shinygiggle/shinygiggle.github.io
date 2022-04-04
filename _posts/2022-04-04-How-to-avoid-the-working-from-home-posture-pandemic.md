@@ -47,8 +47,6 @@ And it's not just muscle pain that homeworkers are grappling with. According to
 
 "You end up irritating your nervous system that gives you a tension headache that can refer all the way round to the front of the head," he says. "More often than not, this takes the form of a dull, throbbing headache deep in the base of the skull."
 
-[Telegraph 365 newsletter REFERRAL (article)](https://cf-particle-html.eip.telegraph.co.uk/40cd8a66-f5fa-4b01-828e-6ab606701740.html "Telegraph 365 newsletter REFERRAL (article)")
-
 Largely, this is all caused by poor posture. "All you've got to do is put your head forward and your chin up a bit, and you can feel how jammed it feels at the top of your neck," adds McClean.
 
 There are things you can do to work more healthily though -- and it starts with getting an appropriate chair. To avoid slouching forward on to your desk space, Jones recommends always having a chair with good back support to help keep your spine in a neutral position. If you don't want to invest in an ergonomically designed desk chair, then sit with a cushion against the back of the chair with your back fully against it.
