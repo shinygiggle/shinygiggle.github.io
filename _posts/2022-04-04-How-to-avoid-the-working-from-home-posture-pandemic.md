@@ -18,10 +18,8 @@ When 27-year old PhD student Laury Sellem started working from home at the begin
 "I also became more prone to injuries while I was exercising," she says. "Over the course of three months, I blocked my back twice while doing yoga and injured my knee while running, even though I kept my routine similar to before lockdown."
 
 At the end of the summer, Sellem's back was so painful that it starting interfering with daily activities, and even woke her up at night. Eventually, she sought help from a chiropractor, who said the pain was being caused by her posture. He advised Sellem to get an external monitor for her laptop placed at eye level, and a footrest to stabilise the blood flow in her legs. "The chiropractor also showed me how to sit properly, keeping my shoulders back and avoid crossing my legs to reduce the strain on my back," she added.
-
-Since I'll mostly be working from home until the end of my PhD, I've decided to upgrade my [#WFH](https://twitter.com/hashtag/WFH?src=hash&ref_src=twsrc%5Etfw) space! Very grateful to be able to afford all the equipment. No more neck pain from the long hours on the laptop 🙃 [#PhDlife](https://twitter.com/hashtag/PhDlife?src=hash&ref_src=twsrc%5Etfw) [#AcademicChatter](https://twitter.com/hashtag/AcademicChatter?src=hash&ref_src=twsrc%5Etfw) [#ECRchat](https://twitter.com/hashtag/ECRchat?src=hash&ref_src=twsrc%5Etfw) [pic.twitter.com/jjQgNlmYGd](https://t.co/jjQgNlmYGd)
-
---- Laury Sellem (@LaurySllm) [September 4, 2020](https://twitter.com/LaurySllm/status/1301874422521966594?ref_src=twsrc%5Etfw)
+  
+![](/assets/LaurySellemTweet.png) 
 
 Sellem's situation is far from unique. According to figures from the [British Association of Chiropractors (BCA)](https://chiropractic-uk.co.uk/), their website saw a 660 per cent increase in traffic during lockdown, based on the same time last year. Data from a study undertaken in 2019 reveals that over 70 per cent of chiropractors have treated patients with injuries linked to sedentary lifestyle habits, such as screen time (78 per cent) and sitting for too long (93 per cent).
 
