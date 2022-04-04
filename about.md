@@ -5,7 +5,7 @@ permalink: /about/
 ---
 
 
-### shiny-giggle
+### shinygiggle
 
 This website is about getting and staying active.
 
