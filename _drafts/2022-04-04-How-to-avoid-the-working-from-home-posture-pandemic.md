@@ -2,7 +2,7 @@
 layout: post
 title: "How to avoid the working from home 'posture pandemic'"
 categories: exercise
-image: /assets/shoelaces.png
+image: /assets/workingfromhome.png
 ---
 
 With working from home becoming a long term arrangement, experts are fearful it will lead to problems from bad posture to tension headaches
