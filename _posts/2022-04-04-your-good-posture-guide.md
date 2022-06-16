@@ -3,6 +3,8 @@ layout: post
 title: "Your good posture guide"
 categories: posture
 image: /assets/sittingdesk.png
+author:
+- ShinyGiggle
 ---
 
 As many of us have spent a large portion of this  past year hunched over  a laptop at our kitchen table, it’s no wonder that we’re going through a posture pandemic. During lockdown, Google searches for ‘back pain’ soared, with a many believing our home workspaces were to blame. Shiny Giggle, health practitioner, believes that two factors were responsible.  ‘The combination of people  working from home and feeling pretty stressed – both have the potential to create an abnormal amount of tension through the  neck and shoulders.’ ‘If you’re leaning forward  over a laptop, the muscles at the back of your neck have to work overtime just to hold your head up,’ says Giggle. Meanwhile, worrying about the health, financial and social impacts of the pandemic might have caused us to tense up through our shoulders, contributing further to any posture issues. And while niggling pain might be a short-term symptom, a poor desk set-up can cause lasting damage over time. ‘The muscles at the front can get quite weak,’ says Giggle. ‘Over time, the habit of poor posture creates a hunch.’ Luckily, there are some easy changes we can make to move to a good posture habit. 
