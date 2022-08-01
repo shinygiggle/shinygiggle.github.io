@@ -3,7 +3,7 @@
 backend:
   name: git-gateway
   repo: shinygiggle/shinygiggle.github.io # Path to your Github repository
-  branch: main # Branch to update (optional; defaults to master)
+  branch: master # Branch to update (optional; defaults to master)
 media_folder: 'assets'
 collections:
   - name: 'blog'
