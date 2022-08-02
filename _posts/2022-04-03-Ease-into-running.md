@@ -69,9 +69,8 @@ You're also "earning the right" to a new pair of shoes (should you need them) an
 
 Once this has become a habit and you're ready to take the next step (literally) to running I recommend reading the [Runners World article](https://www.runnersworld.com/uk/training/beginners/a772727/how-to-start-running-today/) about starting to run as they outline a great schedule to move thing along.
   
-Like all exercise running is easier and more efficient if your body is moving well. Checking in with your health practictioner is a great way to help ensure you're moving well. 
+Like all exercise running is easier and more efficient if your body is moving well. Checking in with your health practictioner is a great way to help ensure you're moving well.
 
 Lastly, getting good at running takes time.  Our cardiovascular system adapts more quickly to training than our joints ligaments and conceive tissue. It takes years for these tissues to adapt to the genuine stressors of running. This is why *professional* runners build up to a marathon distance over a period of years, not months. I say this because I've seen countless people get a place in a marathon and think they can be *ready* for it in 6 months only to breakdown during the training program be a mess after the event or, worse still, not enjoy the experience of the actual marathon itself.
 
 Running is a journey - in more ways than one - and I encourage you to give yourself time and permission to enjoy all of them, because, in the long run you're running for you.
-

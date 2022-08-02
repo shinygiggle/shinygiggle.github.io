@@ -13,9 +13,9 @@ Getting into exercise is something that everyone says they want to do, but a lot
 
 Exercise is important for a number of reasons we have all heard before, but it's worth a recap.
 
-1.  Exercise can be highly beneficial for keeping you healthy.
+1. Exercise can be highly beneficial for keeping you healthy.
 
-2.  Exercise also can have a positive effect on mood and reduce stress. Ultimately you are doing something good for yourself.
+2. Exercise also can have a positive effect on mood and reduce stress. Ultimately you are doing something good for yourself.
 
 A good way to get into exercise is to try something you've never tried before. There are many gyms around which offer classes in different styles of exercise. These could be things like yoga, pilates, zumba, circuit training, body weight training, spinning and many, many more. Many of these gyms or studios offer free trial classes or great introductory offers which allows you to try classes at different gyms and offers a free trial period. They are also a place where you can meet people who may be interested in similar things and on a similar fitness path to you. Lastly, it is always nice to have a structured workout planned and have someone there to correct your form if you are doing moves incorrectly, trainers always lead these classes and this is hugely beneficial to your experience.
 
