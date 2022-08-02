@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Your good posture guide"
+date: 2022-04-04
 categories: posture
 image: /assets/sittingdesk.png
 author:

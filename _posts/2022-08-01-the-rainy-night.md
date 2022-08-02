@@ -1,8 +1,11 @@
 ---
 layout: post
 title: The rainy night
-date: 2022-08-01T10:15:45.912Z
+date: 2022-08-01
+categories: melbourne
+image: /assets/rainymelbourne.jpg
+author:
+- ShinyGiggle
 ---
-![](/assets/rainymelbourne.jpg)
 
 It was such a rainy night tonight.
