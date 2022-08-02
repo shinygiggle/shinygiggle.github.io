@@ -8,4 +8,4 @@ author:
 - ShinyGiggle
 ---
 
-It was such a rainy night tonight.
+It was such a rainy night tonight. It really was.
