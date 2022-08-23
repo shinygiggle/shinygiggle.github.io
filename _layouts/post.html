@@ -4,7 +4,8 @@ layout: default
 <article class="post h-entry" itemscope itemtype="http://schema.org/BlogPosting">
 
   <header class="post-header">
-    <img src="{{- page.image -}}" alt="" class="featured-image-post">
+    <!-- Added "| relative_url" to line below - this is required so that image files of github pages repositories further down the path like username.github.io/repository are addressed correctly -->
+    <img src="{{- page.image | relative_url -}}" alt="" class="featured-image-post">
         <h1 class="post-title p-name" itemprop="name headline">{{ page.title | escape }}</h1>
     <p class="post-meta">
       {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
