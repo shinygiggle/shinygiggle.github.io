@@ -26,3 +26,5 @@ If an injury is preventing you from getting back into exercise, it might be time
 Once you have started an exercise routine, you will start to notice changes in your body. At first, things will probably hurt a bit because the structures in your body are adapting to this new routine. This is most likely completely normal and okay!
 
 Once you make a habit of exercising you are unlikely to want to stop, especially if you set yourself an end goal within your training routine. It doesn’t have to be an endurance event - it could be as straightforward as losing a certain amount of weight, running four miles in a certain amount of time, or being able to complete a difficult yoga pose. Make sure your goal is [SMART](https://www.smartsheet.com/blog/essential-guide-writing-smart-goals). Ultimately, you will achieve your end goal, set new goals and maintain or build on the progress you’ve made. Good luck!
+![](/assets/shoelaces.png)
+
